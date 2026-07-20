@@ -89,9 +89,8 @@ The following project ideas are being evaluated:
 | Name | Role |
 |------|------|
 | Ansh Patel | Documentation & Development |
-| Team Member 2 | TBD |
-| Team Member 3 | TBD |
-| Team Member 4 | TBD |
+| Riteka Rajput | Documentation & Development  |
+| Aanchal Rai | Documentation & Development  |
 
 ---
 
