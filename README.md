@@ -45,29 +45,6 @@ The following project ideas are being evaluated:
 
 ---
 
-## 🛠️ Technology Stack
-
-- Frontend
-  - React.js / Next.js (Final selection pending)
-
-- Backend
-  - Python (FastAPI / Flask)
-
-- AI
-  - OpenAI API
-  - Hugging Face Models
-  - LangChain (if required)
-
-- Database
-  - PostgreSQL
-  - SQLite (for development)
-
-- Version Control
-  - Git
-  - GitHub
-
----
-
 ## 📅 Development Phases
 
 - [x] Project Idea Selection
